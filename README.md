@@ -43,5 +43,5 @@ If you're learning the MERN stack or want to see practical coding projects and t
 
 ## 📫 Contact Me
 
-Feel free to reach out via GitHub or connect through the comments on YouTube — I love helping fellow devs!
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:icubecode@gmail.com)  
+Feel free to reach out via **email** — I love helping fellow devs!

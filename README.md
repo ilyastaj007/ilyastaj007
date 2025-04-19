@@ -9,7 +9,7 @@
 
 I'm a passionate developer and lifelong learner who enjoys building full-stack applications and teaching others how to do the same. By day, I work as a tech professional, and by night (and weekends!), I create helpful content for developers looking to master the modern web development stack.
 
----
+---1
 
 ## 💻 Tech Stack
 
